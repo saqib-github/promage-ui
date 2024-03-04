@@ -52,11 +52,6 @@ To run the tests, use the following command:
 ```bash
 npm test
 ```
-
-## Documentation
-
-For detailed documentation on the application's components, state management, and routing, refer to the documentation provided in the `docs` folder of the repository.
-
 ## Additional Features
 
 While not required for the coding challenge, additional features could be added to enhance the frontend application, such as:
