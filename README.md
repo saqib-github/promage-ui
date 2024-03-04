@@ -28,6 +28,13 @@ To start the frontend application, follow these steps:
    npm start
    ```
 
+   ## ProMage Frontend
+
+![ProMage Frontend Screenshot](screenshots/frontend-screenshot.png)
+
+This is the front-end application for ProMage, a project management system. It allows users to view, create, edit, and delete projects and tasks. Below are the steps to run the project and an overview of its architecture and design.
+
+
 ## Architecture and Design
 
 ### Technologies Used
